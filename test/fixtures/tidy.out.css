@@ -2,11 +2,11 @@
 button {
   padding: 5px 10px;
   border: 1px solid #eee;
-  border-bottom-color: #ddd;
+  border-bottom-color: #ddd
 }
 
 .green {
   background: green;
-  padding: 10px 15px;
+  padding: 10px 15px
 }
 
